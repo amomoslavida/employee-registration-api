@@ -1,4 +1,4 @@
 # employee-registration-api
-An Employee Registration API written with .Net Core Minimal API for the Helmes recruitment task. No Entity framework, data is handled with the help of stored procedures. The Database dump is also in the repository. In case DB dumb is incompatible or there is an error with restoring, the scripts for the database and all its objects and the scripts for the sector inserts are included as well.
+Presenting an Employee Registration API built using .NET Core Minimal API for the Helmes recruitment task. It doesn't rely on Entity Framework; instead, data management is handled through stored procedures. The repository contains the complete database dump, and in case of compatibility issues or restoration errors, scripts for the database and its objects, as well as sector inserts, are included
 # Important note!
 You need to change the connection strings if needed. 
